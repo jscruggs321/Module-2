@@ -1,0 +1,1 @@
+This repository was done as an assignment which requested a mockup restaurant page be create with the main functionality being to demonstrate responsive design and adaptive elements varying depending on the device being used i.e. iPhones, Tablets, Desktops, etc.
